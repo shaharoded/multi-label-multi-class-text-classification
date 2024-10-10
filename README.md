@@ -42,3 +42,9 @@ The analysis notebook is not included in this project for intellectual property 
 - A text preprocess pipeline - as this notebook already assumes your text is preprocessed
 - Analysis that match your need, such as Sentiment, NER etc. It is recommended to use the perdicted themes within those analysics.
 - It is also recommended to be mindfull and concise with the number of classes provided. Less classes -> more accuracy and granularity.
+
+## Results
+
+Below is a visual representation of the results for each theme and the corresponding models, including key metrics such as **precision**, **recall**, and **optimal threshold**.
+
+![Results](./images/results_table.png)
